@@ -1,4 +1,4 @@
-function play {
+function play () {
     document.location.href = "https://game.imibuks.repl.co/"
 }
 
